@@ -1,0 +1,4 @@
+Sitemap: https://TheThing-CV.githubpages.io/sitemapindex.xml
+
+User-Agent: *
+Host: TheThing-CV.githubpages.io

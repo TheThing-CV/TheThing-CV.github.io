@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://TheThing-CV.githubpages.io/</loc>
+  <lastmod>2019-09-12T08:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://TheThing-CV.githubpages.io/2019/</loc>
+  <lastmod>2019-09-12T08:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://TheThing-CV.githubpages.io/archive.html</loc>
+  <lastmod>2019-09-12T08:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://TheThing-CV.githubpages.io/categories/</loc>
+  <lastmod>2019-09-12T08:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://TheThing-CV.githubpages.io/galleries/</loc>
+  <lastmod>2019-09-12T08:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://TheThing-CV.githubpages.io/listings/</loc>
+  <lastmod>2019-09-12T08:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://TheThing-CV.githubpages.io/pages/about/</loc>
+  <lastmod>2019-09-12T08:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://TheThing-CV.githubpages.io/posts/test/</loc>
+  <lastmod>2019-09-12T08:32:00Z</lastmod>
+ </url>
+</urlset>
